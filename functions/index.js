@@ -15,7 +15,7 @@ const gmailPassword = encodeURIComponent(functions.config().gmail.password);
 const mailTransport = nodemailer.createTransport(
   `smtps://${gmailEmail}:${gmailPassword}@smtp.gmail.com`);
 
-const APP_NAME = 'The Ride Share';
+const APP_NAME = 'The Gatherer';
 
 //admin.initializeApp(functions.config().firebase);
 // var firebaseConfig = functions.config().firebase;

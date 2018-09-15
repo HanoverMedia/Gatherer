@@ -313,7 +313,7 @@ function initialize() {
 function loadScript() {
     var script = document.createElement("script");
     script.type = "text/javascript";
-    script.src = "https://maps.googleapis.com/maps/api/js?key=AIzaSyDYvL6NvMG8gijhpwWwaNiYT3BOcSJosWE&sensor=false&callback=initialize";
+    script.src = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCzZXWxjKQKKD0H240-hByVwxtWM-a5l6E&sensor=false&callback=initialize";
     document.body.appendChild(script);
 }
 

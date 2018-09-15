@@ -1,10 +1,10 @@
 //TODO - REPLACE WITH YOUR APP CONFIG
 var config = {
-    apiKey: "AIzaSyBkJbNSzl9YSMwqe6BTO5EJ1RVvFiSTFxM",
-    authDomain: "the-gatherers.firebaseapp.com",
-    databaseURL: "https://the-gatherers.firebaseio.com",
-    projectId: "the-gatherers",
-    storageBucket: "the-gatherers.appspot.com",
-    messagingSenderId: "172247457831"
-  };
-  firebase.initializeApp(config);
+  apiKey: "AIzaSyCeqkn7j0JSMATvQQQoGkDgPd_jZFn2lFM",
+  authDomain: "thegatherer-ud.firebaseapp.com",
+  databaseURL: "https://thegatherer-ud.firebaseio.com",
+  projectId: "thegatherer-ud",
+  storageBucket: "thegatherer-ud.appspot.com",
+  messagingSenderId: "617296496327"
+};
+firebase.initializeApp(config);
