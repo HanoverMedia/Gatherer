@@ -663,8 +663,8 @@ function ginit() {
 
 //TODO SET THE STARTING POINT
 const office = {};
-office.lat = 39.0992752;
-office.lng = -76.8483061;
+office.lat = 39.176780;
+office.lng = -76.728480;
 
 function fun(dest) {
     var routes = [{
